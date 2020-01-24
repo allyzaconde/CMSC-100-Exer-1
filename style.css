@@ -4,6 +4,12 @@ body {
   	background-size: 100% 100%;
 }
 
+#title {
+	font-size: 40px;
+	font:Verdana;
+	color: green;
+}
+
 #styling {
 	font-size: 20px;
 	font: Georgia;
